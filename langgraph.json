@@ -1,0 +1,12 @@
+{
+    "dockerfile_lines": [],
+    "graphs": {
+      "email_assistant_gmail": "./src/email_assistant/graphs/main_graph.py:email_assistant_graph",
+      "cron": "./src/email_assistant/graphs/cron.py:graph"
+    },
+    "python_version": "3.12",
+    "env": ".env",
+    "dependencies": [
+      "."
+    ]
+  }
