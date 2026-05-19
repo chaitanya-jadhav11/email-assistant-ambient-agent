@@ -1,5 +1,7 @@
 .env
 .venv
+/src/email_assistant/tools/gmail/.secrets/
+/.secrets/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -219,3 +221,5 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+
